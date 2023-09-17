@@ -1,8 +1,10 @@
-from bilibili.import_func import get_video_pages, get_video_duration
+from bilibili.import_func import get_video_pages, get_video_duration, import_video
 from chart.piechart import pie_chart
+from readme.markdown import insert_lines_markdown
+import asyncio
 
 
-def info_text(info, video_title, pages=False, finished=[-1]) -> list:
+def info_text(info, video_title, pages=False, finished=[-1]) -> tuple:
     title = "\n\n### [{}]({})\n".format(video_title, info["link"])
     result = [title, "- Finished:\n"]
     
@@ -47,4 +49,19 @@ def info_text(info, video_title, pages=False, finished=[-1]) -> list:
             detail_text = "\t- [x] [{}]({}) {}\n".format(page_title, page_link, page_duration[1])
         result.append(detail_text)
     
+    return result, minutes_done
+
+
+def info_summary(info, video_title, finished=0) -> list:
+    link = "https://github.com/Yin-FR/Learning/blob/main/learnings/{}.md".format(video_title)
+    duration = round(get_video_duration(info)[0] / 60)
+    done = " " if finished < duration else "x"
+    result = ["- [{}] [{}]({}) {}/{} minutes\n".format(done, video_title, link, finished, duration)]
     return result
+
+
+async def add_record(bvid, basic_paths, subject, is_paged, finished, mark) -> None:
+    result = await import_video(bvid)
+    text_page, minutes_down = info_text(result, subject, is_paged, finished)
+    insert_lines_markdown(basic_paths[1], "./learnings/{}.md".format(subject), text_page, "VIDEO")
+    insert_lines_markdown(basic_paths[0], "./README.md", info_summary(result, subject, minutes_down), mark)

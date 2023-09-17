@@ -9,6 +9,7 @@ def insert_lines_markdown(file_path, dest_path, lines, mark):
             mark_idx = idx
     
     if mark_idx == -1:
+        print("{} MARK NOT FOUND".format(mark))
         return
     
     old_lines[mark_idx + 1: mark_idx + 1] = lines

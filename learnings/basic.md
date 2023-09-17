@@ -3,9 +3,5 @@
 This is a leanring board of me.
 
 ## Videos
+<!-- VIDEO -->
 
-### Front
-<!-- FRONT -->
-
-### Java
-<!-- JAVA -->
