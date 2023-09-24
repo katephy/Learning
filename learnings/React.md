@@ -8,8 +8,8 @@ This is a leanring board of me.
 
 ### [React](https://www.bilibili.com/video/BV1wy4y1D7JT)
 - Finished:
-	- 34/141 pages
-	- 485/2429 minutes
+	- 37/141 pages
+	- 556/2429 minutes
 	- <img src="https://github.com/Yin-FR/Learning/blob/main/assets/finish-percentage-React.png?raw=true" alt="" />
 - Deatil:
 	- [x] [001_尚硅谷react教程_react简介](https://www.bilibili.com/video/BV1wy4y1D7JT?p=1) 0:27:16
@@ -46,9 +46,9 @@ This is a leanring board of me.
 	- [x] [032_尚硅谷react教程_react中的事件处理](https://www.bilibili.com/video/BV1wy4y1D7JT?p=32) 0:08:38
 	- [x] [033_尚硅谷react教程_非受控组件](https://www.bilibili.com/video/BV1wy4y1D7JT?p=33) 0:13:37
 	- [x] [034_尚硅谷react教程_受控组件](https://www.bilibili.com/video/BV1wy4y1D7JT?p=34) 0:10:35
-	- [ ] [035_尚硅谷react教程_高阶函数_函数柯里化](https://www.bilibili.com/video/BV1wy4y1D7JT?p=35) 0:26:29
-	- [ ] [036_尚硅谷react教程_不用柯里化的写法](https://www.bilibili.com/video/BV1wy4y1D7JT?p=36) 0:06:15
-	- [ ] [037_尚硅谷react教程_引出生命周期](https://www.bilibili.com/video/BV1wy4y1D7JT?p=37) 0:39:02
+	- [x] [035_尚硅谷react教程_高阶函数_函数柯里化](https://www.bilibili.com/video/BV1wy4y1D7JT?p=35) 0:26:29
+	- [x] [036_尚硅谷react教程_不用柯里化的写法](https://www.bilibili.com/video/BV1wy4y1D7JT?p=36) 0:06:15
+	- [x] [037_尚硅谷react教程_引出生命周期](https://www.bilibili.com/video/BV1wy4y1D7JT?p=37) 0:39:02
 	- [ ] [038_尚硅谷react教程_生命周期(旧)_组件挂载流程](https://www.bilibili.com/video/BV1wy4y1D7JT?p=38) 0:14:12
 	- [ ] [039_尚硅谷react教程_生命周期(旧)_setState流程](https://www.bilibili.com/video/BV1wy4y1D7JT?p=39) 0:13:00
 	- [ ] [040_尚硅谷react教程_生命周期(旧)_forceUpdate流程](https://www.bilibili.com/video/BV1wy4y1D7JT?p=40) 0:05:27
