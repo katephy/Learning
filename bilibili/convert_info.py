@@ -35,7 +35,7 @@ def info_text(info, video_title, pages=False, finished=[-1]) -> tuple:
         },
         chart_name="finish-percentage-{}".format(video_title)
     )
-    img_finished = "\t- <img src=\"https://github.com/Yin-FR/Learning/blob/main/assets/finish-percentage-{}.png?raw=true\" alt=\"\" />\n".format(video_title)
+    img_finished = "\t- <img src=\"https://github.com/Yin-FR/Learning/blob/main/assets/finish-percentage-{}.png?raw=true\" alt=\"\" />\n".format(video_title.replace(" ", "%20"))
     result.append(img_finished)
     result.append("- Deatil:\n")
 
@@ -53,7 +53,7 @@ def info_text(info, video_title, pages=False, finished=[-1]) -> tuple:
 
 
 def info_summary(info, video_title, finished=0) -> list:
-    link = "https://github.com/Yin-FR/Learning/blob/main/learnings/{}.md".format(video_title)
+    link = "https://github.com/Yin-FR/Learning/blob/main/learnings/{}.md".format(video_title.replace(" ", "%20"))
     duration = round(get_video_duration(info)[0] / 60)
     done = " " if finished < duration else "x"
     result = ["- [{}] [{}]({}) {}/{} minutes\n".format(done, video_title, link, finished, duration)]

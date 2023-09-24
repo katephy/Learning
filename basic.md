@@ -2,10 +2,24 @@
 
 This is a leanring board of me.
 
-## Videos
+## 1. Videos
 
-### Front
-<!-- FRONT -->
+### 1.1 Front
+#### 1.1.1 React
+<!-- REACT -->
 
-### Java
-<!-- JAVA -->
+#### 1.1.2 TypeScript
+<!-- TYPESCRIPT -->
+
+
+### 1.2 Back
+#### 1.2.1 SSM(Soring + Spring MVC + MyBatis)
+<!-- SSM -->
+
+#### 1.2.2 Design Pattern
+<!-- DESIGNPATTERN -->
+
+
+### 1.3 Project
+#### 1.3.1 Gulimall
+<!-- GULIMALL -->
