@@ -8,8 +8,8 @@ This is a leanring board of me.
 
 ### [React](https://www.bilibili.com/video/BV1wy4y1D7JT)
 - Finished:
-	- 19/141 pages
-	- 306/2429 minutes
+	- 34/141 pages
+	- 485/2429 minutes
 	- <img src="https://github.com/Yin-FR/Learning/blob/main/assets/finish-percentage-React.png?raw=true" alt="" />
 - Deatil:
 	- [x] [001_尚硅谷react教程_react简介](https://www.bilibili.com/video/BV1wy4y1D7JT?p=1) 0:27:16
@@ -31,21 +31,21 @@ This is a leanring board of me.
 	- [x] [017_尚硅谷react教程_setState的使用](https://www.bilibili.com/video/BV1wy4y1D7JT?p=17) 0:19:43
 	- [x] [018_尚硅谷react教程_state的简写方式](https://www.bilibili.com/video/BV1wy4y1D7JT?p=18) 0:18:04
 	- [x] [019_尚硅谷react教程_总结state](https://www.bilibili.com/video/BV1wy4y1D7JT?p=19) 0:04:22
-	- [ ] [020_尚硅谷react教程_props的基本使用](https://www.bilibili.com/video/BV1wy4y1D7JT?p=20) 0:10:21
-	- [ ] [021_尚硅谷react教程_批量传递props](https://www.bilibili.com/video/BV1wy4y1D7JT?p=21) 0:17:38
-	- [ ] [022_尚硅谷react教程_对props进行限制](https://www.bilibili.com/video/BV1wy4y1D7JT?p=22) 0:23:20
-	- [ ] [023_尚硅谷react教程_props的简写方式](https://www.bilibili.com/video/BV1wy4y1D7JT?p=23) 0:08:51
-	- [ ] [024_尚硅谷react教程_类式组件中的构造器与props](https://www.bilibili.com/video/BV1wy4y1D7JT?p=24) 0:10:47
-	- [ ] [025_尚硅谷react教程_函数式组件使用props](https://www.bilibili.com/video/BV1wy4y1D7JT?p=25) 0:08:05
-	- [ ] [026_尚硅谷react教程_总结props](https://www.bilibili.com/video/BV1wy4y1D7JT?p=26) 0:04:39
-	- [ ] [027_尚硅谷react教程_字符串形式的ref](https://www.bilibili.com/video/BV1wy4y1D7JT?p=27) 0:15:51
-	- [ ] [028_尚硅谷react教程_回调形式的ref](https://www.bilibili.com/video/BV1wy4y1D7JT?p=28) 0:14:06
-	- [ ] [029_尚硅谷react教程_回调ref中调用次数的问题](https://www.bilibili.com/video/BV1wy4y1D7JT?p=29) 0:18:43
-	- [ ] [030_尚硅谷react教程_createRef的使用](https://www.bilibili.com/video/BV1wy4y1D7JT?p=30) 0:08:51
-	- [ ] [031_尚硅谷react教程_总结ref](https://www.bilibili.com/video/BV1wy4y1D7JT?p=31) 0:03:15
-	- [ ] [032_尚硅谷react教程_react中的事件处理](https://www.bilibili.com/video/BV1wy4y1D7JT?p=32) 0:08:38
-	- [ ] [033_尚硅谷react教程_非受控组件](https://www.bilibili.com/video/BV1wy4y1D7JT?p=33) 0:13:37
-	- [ ] [034_尚硅谷react教程_受控组件](https://www.bilibili.com/video/BV1wy4y1D7JT?p=34) 0:10:35
+	- [x] [020_尚硅谷react教程_props的基本使用](https://www.bilibili.com/video/BV1wy4y1D7JT?p=20) 0:10:21
+	- [x] [021_尚硅谷react教程_批量传递props](https://www.bilibili.com/video/BV1wy4y1D7JT?p=21) 0:17:38
+	- [x] [022_尚硅谷react教程_对props进行限制](https://www.bilibili.com/video/BV1wy4y1D7JT?p=22) 0:23:20
+	- [x] [023_尚硅谷react教程_props的简写方式](https://www.bilibili.com/video/BV1wy4y1D7JT?p=23) 0:08:51
+	- [x] [024_尚硅谷react教程_类式组件中的构造器与props](https://www.bilibili.com/video/BV1wy4y1D7JT?p=24) 0:10:47
+	- [x] [025_尚硅谷react教程_函数式组件使用props](https://www.bilibili.com/video/BV1wy4y1D7JT?p=25) 0:08:05
+	- [x] [026_尚硅谷react教程_总结props](https://www.bilibili.com/video/BV1wy4y1D7JT?p=26) 0:04:39
+	- [x] [027_尚硅谷react教程_字符串形式的ref](https://www.bilibili.com/video/BV1wy4y1D7JT?p=27) 0:15:51
+	- [x] [028_尚硅谷react教程_回调形式的ref](https://www.bilibili.com/video/BV1wy4y1D7JT?p=28) 0:14:06
+	- [x] [029_尚硅谷react教程_回调ref中调用次数的问题](https://www.bilibili.com/video/BV1wy4y1D7JT?p=29) 0:18:43
+	- [x] [030_尚硅谷react教程_createRef的使用](https://www.bilibili.com/video/BV1wy4y1D7JT?p=30) 0:08:51
+	- [x] [031_尚硅谷react教程_总结ref](https://www.bilibili.com/video/BV1wy4y1D7JT?p=31) 0:03:15
+	- [x] [032_尚硅谷react教程_react中的事件处理](https://www.bilibili.com/video/BV1wy4y1D7JT?p=32) 0:08:38
+	- [x] [033_尚硅谷react教程_非受控组件](https://www.bilibili.com/video/BV1wy4y1D7JT?p=33) 0:13:37
+	- [x] [034_尚硅谷react教程_受控组件](https://www.bilibili.com/video/BV1wy4y1D7JT?p=34) 0:10:35
 	- [ ] [035_尚硅谷react教程_高阶函数_函数柯里化](https://www.bilibili.com/video/BV1wy4y1D7JT?p=35) 0:26:29
 	- [ ] [036_尚硅谷react教程_不用柯里化的写法](https://www.bilibili.com/video/BV1wy4y1D7JT?p=36) 0:06:15
 	- [ ] [037_尚硅谷react教程_引出生命周期](https://www.bilibili.com/video/BV1wy4y1D7JT?p=37) 0:39:02

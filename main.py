@@ -6,4 +6,4 @@ import asyncio
 
 if __name__ == "__main__":
     loop = asyncio.get_event_loop()
-    result = loop.run_until_complete(add_record("BV1wy4y1D7JT", ["./basic.md", "./learnings/basic.md"], "React", True, range(19), "FRONT"))
+    result = loop.run_until_complete(add_record("BV1wy4y1D7JT", ["./basic.md", "./learnings/basic.md"], "React", True, range(34), "FRONT"))
