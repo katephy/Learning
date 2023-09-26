@@ -1,0 +1,32 @@
+{
+  "REACT": {
+    "title": "React",
+    "bvid": "BV1wy4y1D7JT",
+    "paged": true,
+    "finished": 47
+  },
+  "TYPESCRIPT": {
+    "title": "TypeScript",
+    "bvid": "BV1Xy4y1v7S2",
+    "paged": true,
+    "finished": 12
+  },
+  "SSM": {
+    "title": "SSM",
+    "bvid": "BV1AP411s7D7",
+    "paged": true,
+    "finished": 0
+  },
+  "GULIMALL": {
+    "title": "Gulimall",
+    "bvid": "BV1np4y1C7Yf",
+    "paged": true,
+    "finished": 0
+  },
+  "DESIGNPATTERN": {
+    "title": "Design Pattern",
+    "bvid": "BV1Np4y1z7BU",
+    "paged": true,
+    "finished": 0
+  }
+}

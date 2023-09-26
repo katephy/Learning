@@ -15,13 +15,13 @@ This is a leanring board of me.
 
 
 ### 1.2 Back
-#### 1.2.1 SSM(Soring + Spring MVC + MyBatis)
+#### 1.2.1 SSM(Spring + Spring MVC + MyBatis)
 <!-- SSM -->
 - [ ] [SSM](https://github.com/Yin-FR/Learning/blob/main/learnings/SSM.md) 0/2053 minutes
 
 #### 1.2.2 Design Pattern
 <!-- DESIGNPATTERN -->
-- [ ] [Design Pattern](https://github.com/Yin-FR/Learning/blob/main/learnings/Design%20Pattern.md) 0/1237 minutes
+- [ ] [Design Pattern](https://github.com/Yin-FR/Learning/blob/main/learnings/Design%20Pattern.md) 180/1237 minutes
 
 
 ### 1.3 Project

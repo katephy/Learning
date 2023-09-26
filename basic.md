@@ -13,7 +13,7 @@ This is a leanring board of me.
 
 
 ### 1.2 Back
-#### 1.2.1 SSM(Soring + Spring MVC + MyBatis)
+#### 1.2.1 SSM(Spring + Spring MVC + MyBatis)
 <!-- SSM -->
 
 #### 1.2.2 Design Pattern
