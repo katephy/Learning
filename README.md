@@ -21,10 +21,37 @@ This is a leanring board of me.
 
 #### 1.2.2 Design Pattern
 <!-- DESIGNPATTERN -->
-- [ ] [Design Pattern](https://github.com/Yin-FR/Learning/blob/main/learnings/Design%20Pattern.md) 180/1237 minutes
+- [ ] [Design Pattern](https://github.com/Yin-FR/Learning/blob/main/learnings/Design%20Pattern.md) 0/1237 minutes
 
 
 ### 1.3 Project
 #### 1.3.1 Gulimall
 <!-- GULIMALL -->
 - [ ] [Gulimall](https://github.com/Yin-FR/Learning/blob/main/learnings/Gulimall.md) 0/6285 minutes
+
+-----
+## How to use
+*Until now this tool only supplies Bilibili videos*
+
+1. Install package and dependencies
+```
+git clone https://github.com/Yin-FR/Learning.git
+pip install -r requirements.txt
+```
+2. Modify `basic.md` to customize your main report and define the labels where the generated text will be inserted (the line below label)
+3. Write your learning records into `data.json` with this model:
+```json
+{
+  "$LABEL": {
+    "title": "$TITLE",
+    "bvid": "$BVID",
+    "paged": "$IS_PAGED",
+    "finished": "$FINISHED_PAGES"
+  },
+  ...
+}
+```
+4. Run
+```
+python main.py
+```

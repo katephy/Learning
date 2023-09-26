@@ -8,35 +8,35 @@ This is a leanring board of me.
 
 ### [Design Pattern](https://www.bilibili.com/video/BV1Np4y1z7BU)
 - Finished:
-	- 25/154 pages
-	- 180/1237 minutes
+	- 0/154 pages
+	- 0/1237 minutes
 	- <img src="https://github.com/Yin-FR/Learning/blob/main/assets/finish-percentage-Design%20Pattern.png?raw=true" alt="" />
 - Deatil:
-	- [x] [1.设计模式-课程介绍](https://www.bilibili.com/video/BV1Np4y1z7BU?p=1) 0:04:37
-	- [x] [2.设计模式-产生背景](https://www.bilibili.com/video/BV1Np4y1z7BU?p=2) 0:03:00
-	- [x] [3.设计模式-概念&学习的必须性](https://www.bilibili.com/video/BV1Np4y1z7BU?p=3) 0:03:59
-	- [x] [4.设计模式-分类](https://www.bilibili.com/video/BV1Np4y1z7BU?p=4) 0:03:06
-	- [x] [5.设计模式-类图](https://www.bilibili.com/video/BV1Np4y1z7BU?p=5) 0:03:07
-	- [x] [6.设计模式-类图-类和接口的表示方式](https://www.bilibili.com/video/BV1Np4y1z7BU?p=6) 0:05:45
-	- [x] [7.设计模式-类图-关联关系表示方式](https://www.bilibili.com/video/BV1Np4y1z7BU?p=7) 0:04:54
-	- [x] [8.设计模式-类图-聚合关系和组合关系的表示方式](https://www.bilibili.com/video/BV1Np4y1z7BU?p=8) 0:04:45
-	- [x] [9.设计模式-类图-依赖、继承、实现关系表示方式](https://www.bilibili.com/video/BV1Np4y1z7BU?p=9) 0:07:38
-	- [x] [10.设计模式-设计原则(开闭原则概述)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=10) 0:06:57
-	- [x] [11.设计模式-设计原则(开闭原则案例实现)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=11) 0:08:08
-	- [x] [12.设计模式-设计原则(里氏代换原则概述和案例)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=12) 0:15:59
-	- [x] [13.设计模式-设计原则(里氏代换原则案例改进)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=13) 0:09:06
-	- [x] [14.设计模式-设计原则(依赖倒转原则概述和案例)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=14) 0:16:02
-	- [x] [15.设计模式-设计原则(依赖倒转原则案例改进)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=15) 0:10:37
-	- [x] [16.设计模式-设计原则(接口隔离原则概述和案例)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=16) 0:10:19
-	- [x] [17.设计模式-设计原则(接口隔离原则案例改进)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=17) 0:07:19
-	- [x] [18.设计模式-设计原则(迪米特法则概述)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=18) 0:05:08
-	- [x] [19.设计模式-设计原则(迪米特法则案例)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=19) 0:12:22
-	- [x] [20.设计模式-设计原则(合成复用原则概述)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=20) 0:05:26
-	- [x] [21.设计模式-设计原则(合成复用原则案例)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=21) 0:05:16
-	- [x] [22.设计模式-创建型模式-单例设计模式概述](https://www.bilibili.com/video/BV1Np4y1z7BU?p=22) 0:02:49
-	- [x] [23.设计模式-创建型模式-单例设计模式-饿汉式-方式1](https://www.bilibili.com/video/BV1Np4y1z7BU?p=23) 0:07:26
-	- [x] [24.设计模式-创建型模式-单例设计模式-饿汉式-方式2](https://www.bilibili.com/video/BV1Np4y1z7BU?p=24) 0:06:21
-	- [x] [25.设计模式-创建型模式-单例设计模式-懒汉式](https://www.bilibili.com/video/BV1Np4y1z7BU?p=25) 0:10:22
+	- [ ] [1.设计模式-课程介绍](https://www.bilibili.com/video/BV1Np4y1z7BU?p=1) 0:04:37
+	- [ ] [2.设计模式-产生背景](https://www.bilibili.com/video/BV1Np4y1z7BU?p=2) 0:03:00
+	- [ ] [3.设计模式-概念&学习的必须性](https://www.bilibili.com/video/BV1Np4y1z7BU?p=3) 0:03:59
+	- [ ] [4.设计模式-分类](https://www.bilibili.com/video/BV1Np4y1z7BU?p=4) 0:03:06
+	- [ ] [5.设计模式-类图](https://www.bilibili.com/video/BV1Np4y1z7BU?p=5) 0:03:07
+	- [ ] [6.设计模式-类图-类和接口的表示方式](https://www.bilibili.com/video/BV1Np4y1z7BU?p=6) 0:05:45
+	- [ ] [7.设计模式-类图-关联关系表示方式](https://www.bilibili.com/video/BV1Np4y1z7BU?p=7) 0:04:54
+	- [ ] [8.设计模式-类图-聚合关系和组合关系的表示方式](https://www.bilibili.com/video/BV1Np4y1z7BU?p=8) 0:04:45
+	- [ ] [9.设计模式-类图-依赖、继承、实现关系表示方式](https://www.bilibili.com/video/BV1Np4y1z7BU?p=9) 0:07:38
+	- [ ] [10.设计模式-设计原则(开闭原则概述)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=10) 0:06:57
+	- [ ] [11.设计模式-设计原则(开闭原则案例实现)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=11) 0:08:08
+	- [ ] [12.设计模式-设计原则(里氏代换原则概述和案例)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=12) 0:15:59
+	- [ ] [13.设计模式-设计原则(里氏代换原则案例改进)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=13) 0:09:06
+	- [ ] [14.设计模式-设计原则(依赖倒转原则概述和案例)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=14) 0:16:02
+	- [ ] [15.设计模式-设计原则(依赖倒转原则案例改进)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=15) 0:10:37
+	- [ ] [16.设计模式-设计原则(接口隔离原则概述和案例)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=16) 0:10:19
+	- [ ] [17.设计模式-设计原则(接口隔离原则案例改进)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=17) 0:07:19
+	- [ ] [18.设计模式-设计原则(迪米特法则概述)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=18) 0:05:08
+	- [ ] [19.设计模式-设计原则(迪米特法则案例)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=19) 0:12:22
+	- [ ] [20.设计模式-设计原则(合成复用原则概述)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=20) 0:05:26
+	- [ ] [21.设计模式-设计原则(合成复用原则案例)](https://www.bilibili.com/video/BV1Np4y1z7BU?p=21) 0:05:16
+	- [ ] [22.设计模式-创建型模式-单例设计模式概述](https://www.bilibili.com/video/BV1Np4y1z7BU?p=22) 0:02:49
+	- [ ] [23.设计模式-创建型模式-单例设计模式-饿汉式-方式1](https://www.bilibili.com/video/BV1Np4y1z7BU?p=23) 0:07:26
+	- [ ] [24.设计模式-创建型模式-单例设计模式-饿汉式-方式2](https://www.bilibili.com/video/BV1Np4y1z7BU?p=24) 0:06:21
+	- [ ] [25.设计模式-创建型模式-单例设计模式-懒汉式](https://www.bilibili.com/video/BV1Np4y1z7BU?p=25) 0:10:22
 	- [ ] [26.设计模式-创建型模式-单例设计模式-双重检查方式](https://www.bilibili.com/video/BV1Np4y1z7BU?p=26) 0:08:52
 	- [ ] [27.设计模式-创建型模式-单例设计模式-静态内部类方式](https://www.bilibili.com/video/BV1Np4y1z7BU?p=27) 0:06:54
 	- [ ] [28.设计模式-创建者模式-单例设计模式-枚举方式](https://www.bilibili.com/video/BV1Np4y1z7BU?p=28) 0:02:58
