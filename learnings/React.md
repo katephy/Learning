@@ -8,8 +8,8 @@ This is a leanring board of me.
 
 ### [React](https://www.bilibili.com/video/BV1wy4y1D7JT)
 - Finished:
-	- 37/141 pages
-	- 556/2429 minutes
+	- 47/141 pages
+	- 699/2429 minutes
 	- <img src="https://github.com/Yin-FR/Learning/blob/main/assets/finish-percentage-React.png?raw=true" alt="" />
 - Deatil:
 	- [x] [001_尚硅谷react教程_react简介](https://www.bilibili.com/video/BV1wy4y1D7JT?p=1) 0:27:16
@@ -49,16 +49,16 @@ This is a leanring board of me.
 	- [x] [035_尚硅谷react教程_高阶函数_函数柯里化](https://www.bilibili.com/video/BV1wy4y1D7JT?p=35) 0:26:29
 	- [x] [036_尚硅谷react教程_不用柯里化的写法](https://www.bilibili.com/video/BV1wy4y1D7JT?p=36) 0:06:15
 	- [x] [037_尚硅谷react教程_引出生命周期](https://www.bilibili.com/video/BV1wy4y1D7JT?p=37) 0:39:02
-	- [ ] [038_尚硅谷react教程_生命周期(旧)_组件挂载流程](https://www.bilibili.com/video/BV1wy4y1D7JT?p=38) 0:14:12
-	- [ ] [039_尚硅谷react教程_生命周期(旧)_setState流程](https://www.bilibili.com/video/BV1wy4y1D7JT?p=39) 0:13:00
-	- [ ] [040_尚硅谷react教程_生命周期(旧)_forceUpdate流程](https://www.bilibili.com/video/BV1wy4y1D7JT?p=40) 0:05:27
-	- [ ] [041_尚硅谷react教程_生命周期(旧)_父组件render流程](https://www.bilibili.com/video/BV1wy4y1D7JT?p=41) 0:14:14
-	- [ ] [042_尚硅谷react教程_总结生命周期(旧)](https://www.bilibili.com/video/BV1wy4y1D7JT?p=42) 0:09:07
-	- [ ] [043_尚硅谷react教程_对比新旧生命周期](https://www.bilibili.com/video/BV1wy4y1D7JT?p=43) 0:31:28
-	- [ ] [044_尚硅谷react教程_getDerivedStateFromProps](https://www.bilibili.com/video/BV1wy4y1D7JT?p=44) 0:16:41
-	- [ ] [045_尚硅谷react教程_getSnapshotBeforeUpdate](https://www.bilibili.com/video/BV1wy4y1D7JT?p=45) 0:16:36
-	- [ ] [046_尚硅谷react教程_getSnapshotBeforeUpdate举例](https://www.bilibili.com/video/BV1wy4y1D7JT?p=46) 0:19:53
-	- [ ] [047_尚硅谷react教程_总结生命周期(新)](https://www.bilibili.com/video/BV1wy4y1D7JT?p=47) 0:04:26
+	- [x] [038_尚硅谷react教程_生命周期(旧)_组件挂载流程](https://www.bilibili.com/video/BV1wy4y1D7JT?p=38) 0:14:12
+	- [x] [039_尚硅谷react教程_生命周期(旧)_setState流程](https://www.bilibili.com/video/BV1wy4y1D7JT?p=39) 0:13:00
+	- [x] [040_尚硅谷react教程_生命周期(旧)_forceUpdate流程](https://www.bilibili.com/video/BV1wy4y1D7JT?p=40) 0:05:27
+	- [x] [041_尚硅谷react教程_生命周期(旧)_父组件render流程](https://www.bilibili.com/video/BV1wy4y1D7JT?p=41) 0:14:14
+	- [x] [042_尚硅谷react教程_总结生命周期(旧)](https://www.bilibili.com/video/BV1wy4y1D7JT?p=42) 0:09:07
+	- [x] [043_尚硅谷react教程_对比新旧生命周期](https://www.bilibili.com/video/BV1wy4y1D7JT?p=43) 0:31:28
+	- [x] [044_尚硅谷react教程_getDerivedStateFromProps](https://www.bilibili.com/video/BV1wy4y1D7JT?p=44) 0:16:41
+	- [x] [045_尚硅谷react教程_getSnapshotBeforeUpdate](https://www.bilibili.com/video/BV1wy4y1D7JT?p=45) 0:16:36
+	- [x] [046_尚硅谷react教程_getSnapshotBeforeUpdate举例](https://www.bilibili.com/video/BV1wy4y1D7JT?p=46) 0:19:53
+	- [x] [047_尚硅谷react教程_总结生命周期(新)](https://www.bilibili.com/video/BV1wy4y1D7JT?p=47) 0:04:26
 	- [ ] [048_尚硅谷react教程_DOM的diffing算法](https://www.bilibili.com/video/BV1wy4y1D7JT?p=48) 0:45:39
 	- [ ] [049_尚硅谷react教程_初始化react脚手架](https://www.bilibili.com/video/BV1wy4y1D7JT?p=49) 0:23:38
 	- [ ] [050_尚硅谷react教程_脚手架文件介绍_public](https://www.bilibili.com/video/BV1wy4y1D7JT?p=50) 0:30:37

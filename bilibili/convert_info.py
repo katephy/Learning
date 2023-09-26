@@ -18,10 +18,12 @@ def info_text(info, video_title, pages=False, finished=[-1]) -> tuple:
 
     pages_done = 0
     minutes_done = 0
+    secs_done = 0
     for (idx, page) in enumerate(pages_list):
         if idx in finished:
             pages_done += 1
-            minutes_done += round(page["duration"][0] / 60)
+            secs_done += page["duration"][0]
+    minutes_done = round(secs_done / 60)
 
     pages_number = len(pages_list)
     page_finished = "\t- {}/{} pages\n".format(pages_done, pages_number)

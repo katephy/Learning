@@ -7,11 +7,11 @@ This is a leanring board of me.
 ### 1.1 Front
 #### 1.1.1 React
 <!-- REACT -->
-- [ ] [React](https://github.com/Yin-FR/Learning/blob/main/learnings/React.md) 556/2429 minutes
+- [ ] [React](https://github.com/Yin-FR/Learning/blob/main/learnings/React.md) 699/2429 minutes
 
 #### 1.1.2 TypeScript
 <!-- TYPESCRIPT -->
-- [ ] [TypeScript](https://github.com/Yin-FR/Learning/blob/main/learnings/TypeScript.md) 26/625 minutes
+- [ ] [TypeScript](https://github.com/Yin-FR/Learning/blob/main/learnings/TypeScript.md) 267/625 minutes
 
 
 ### 1.2 Back
